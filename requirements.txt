@@ -1,0 +1,11 @@
+# VXPOC-1977: Add OpenTelemetry to runtime-operations
+opentelemetry-exporter-otlp-proto-grpc
+opentelemetry-sdk
+opentelemetry-api
+opentelemetry-exporter-jaeger-thrift
+opentelemetry-semantic-conventions
+opentelemetry-instrumentation-flask
+opentelemetry-instrumentation-requests
+opentelemetry-instrumentation-redis
+opentelemetry-instrumentation-pika
+opentelemetry-instrumentation-sqlalchemy
