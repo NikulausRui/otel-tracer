@@ -9,3 +9,9 @@ opentelemetry-instrumentation-requests
 opentelemetry-instrumentation-redis
 opentelemetry-instrumentation-pika
 opentelemetry-instrumentation-sqlalchemy
+
+flask
+requests
+redis
+pika
+sqlalchemy
