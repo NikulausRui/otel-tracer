@@ -22,7 +22,7 @@ setup(
     include_package_data=True,
     packages=find_packages(),
     install_requires=install_requires,
-    name='otel-tracer',
+    name='otel_tracer',
     version='0.0.1',
     description="common python utilities for VxRail",
     author="VxRail",
